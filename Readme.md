@@ -1,6 +1,6 @@
 <html>
    <body>
-      <h2 align="center">Bio</h2>
+      <h2 align="center">About Me:</h2>
       <p>
       <br>
 I've always found mathematics and problem-solving fascinating. Computer gaming and the intense passion that accompanied it were the beginning of everything. With time, I came to understand that video games were simply apps that could be created, and I could do it myself! During my education, I developed an interest in the technical aspects of computers, the internet, and all the apps that may be created and how they simplify human life.
