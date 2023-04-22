@@ -1,6 +1,8 @@
 <html>
    <body>
+      <p align="center"> 
       <img src="https://komarev.com/ghpvc/?username=Atharva18&label=Profile%20Views&color=blueviolet&style=plastic" alt="atharva18"/>
+      </p>
       <h2 align="center">About Me:</h2>
       <p>
       <br>
