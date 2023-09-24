@@ -17,7 +17,7 @@ I have strong knowledge of Data Structures and Algorithms and possess good probl
       <h2 align="center">Technologies I have worked on:</h2>
       <dl align="center">
          <dt>Languages :</dt>
-         <dd>- Java, JavaScript, ReactJS, SAPUI5, Kotlin, NodeJS</dd>
+         <dd>- Java, JavaScript, React.js, SAPUI5, Kotlin, Node.js, Angular</dd>
          <dt>Frameworks/Tools</dt>
          <dd>- Git, Jenkins, Spring Boot, JMeter, Postman, SAP Fiori, Maven</dd>
       </dl>
